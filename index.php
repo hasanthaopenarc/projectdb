@@ -13,6 +13,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
 </head>
 <body>
+<h2>OpenArc</h2>
 <div class="container my-3">
 	<!-- Button trigger modal -->
 	<button type="button" class="btn btn-primary" data-toggle="modal" data-target="#addusermodel">
